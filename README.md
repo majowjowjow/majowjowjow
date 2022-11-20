@@ -1,5 +1,7 @@
 # Hello there 👋
-I'm Marijo an aspiring Front-End Developer from the Philippines and have experience working with .NET Framework and Oracle.
+I'm Marijo an aspiring Front-End Developer from the Philippines
+
+I have experience working with .NET Framework and Oracle.
 
 #### Some Things About Me
 - 💼 Software Engineer at Accenture.
